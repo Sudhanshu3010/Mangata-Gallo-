@@ -103,9 +103,8 @@ main div p {
     transition: 0.5s;
     color: white;
 }
-main h4{
+main h4 {
     margin : 30px;
-    position: relative;
     text-align: center;
     font-size: 30px;
     font-weight: 300;
